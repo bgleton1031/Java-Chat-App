@@ -6,7 +6,7 @@ So, after noticing that they are ALWAYS on their phones, I asked what if I was t
 
 So, here's the details of this project:
 
-Create a simple messaging app for high school students and show them how to create themselves. And just to make things a bit interesting, I figured I'd do a secured version of the messaging app as well. Below are screenshots of the project and this will take you to the repositroy with the code that I've used for both secured and unsecured messaging app.
+Create a simple messaging app for high school students and show them how to create themselves. And just to make things a bit interesting, I figured I'd do a secured version of the messaging app as well. Below are screenshots of the project and this will take you to the repository with the code that I've used for both secured and unsecured messaging app.
 
 ![image](https://github.com/bgleton1031/Java-Chat-App/assets/24783681/785df622-ab95-4f48-8045-17a6ade9f004)
 
