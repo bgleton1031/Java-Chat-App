@@ -2,6 +2,9 @@
 
 This is the code I've used for the **unsecured** messaging server.
 
+
+If you're looking for the code for the **secured** version, click on this Do you want the SECURED CODE? You can click on this [REPOSITORY](https://github.com/bgleton1031/Java-Chat-App/blob/Secured-Messaging-App-Code/README.md). 
+
 package Server;
 
 import java.io.*;
@@ -117,3 +120,6 @@ public class ChatClient {
     }
 }
 //End of ChatClient code
+
+
+Do you want the SECURED CODE? You can click on this c
